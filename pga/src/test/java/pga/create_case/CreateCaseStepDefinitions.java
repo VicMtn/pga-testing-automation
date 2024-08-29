@@ -1,12 +1,10 @@
-package pga;
+package pga.create_case;
 
 import io.cucumber.java.en.*;
 
-import static org.junit.jupiter.api.Assertions.*;
+public class CreateCaseStepDefinitions {
 
-public class StepDefinitions {
-
-    @Given("an example scenario")
+    @Given("an other example scenario")
     public void anExampleScenario() {
     }
 
